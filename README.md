@@ -1,4 +1,4 @@
-# Shopzy Mobile App
+# ShoppingApp Mobile App
 
 # App Screenshots
 
